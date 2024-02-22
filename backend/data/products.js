@@ -77,6 +77,58 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
+  {
+   
+    name: 'Hush Puppies Men',
+    image: '/images/02.jpg',
+    description:
+      'They apply their philosophy of fun, comfortable, genuine style to every shoe they make - from work to weekend',
+    brand: 'Amazon',
+    category: 'shoes',
+    price: 125.99,
+    countInStock: 15,
+    rating: 4,
+    numReviews: 5,
+  },
+  {
+   
+    name: 'Gildan Adult Ultra Cotton T-shirt',
+    image: '/images/04.jpg',
+    description:
+      'Whether wearing it for work or play, the Gildan Ultra Cotton Adult T-Shirt is a wardrobe basic that works for just about any occasion',
+    brand: '',
+    category: 't shirt',
+    price: 40.99,
+    countInStock: 16,
+    rating: 4,
+    numReviews: 11,
+  },
+  {
+   
+    name: 'Deer Stags Mens Williamsburg Oxford',
+    image: '/images/08.jpg',
+    description:
+      'Introducing your new everyday go-to shoe! Dress it up for formal occasions or wear it to work',
+    brand: 'Williamsburg ',
+    category: 'shoes',
+    price: 50.99,
+    countInStock: 17,
+    rating: 4,
+    numReviews: 13,
+  },
+  {
+    
+    name: 'Kipling Womens Sabian Mini Crossbody',
+    image: '/images/07.jpg',
+    description:
+      'A mini bag with major possibilities. Keep the Sabian Mini Handbag around, its a brilliant way to tote around your essentials',
+    brand: 'sabian',
+    category: 'bag',
+    price: 29.99,
+    countInStock: 18,
+    rating: 4,
+    numReviews: 16,
+  },
 ]
 
 export default products  
