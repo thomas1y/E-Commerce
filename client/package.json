@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://e-commerce-jade-one.vercel.app/",
+  "proxy": "https://e-commerce-yxz6.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
